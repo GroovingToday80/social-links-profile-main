@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/GroovingToday80/social-links-profile-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Sites](https://groovingtoday80.github.io/social-links-profile-main/)
 
 ## My process
 
